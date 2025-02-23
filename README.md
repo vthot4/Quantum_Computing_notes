@@ -13,8 +13,16 @@ In this section, I have compiled a collection of notebooks based on the Qiskit d
 
 ## Sources
 
+- University of North Carolina. (n.d.). Introduction to quantum computers. Retrieved from https://help.rc.unc.edu/Assets/New_Course_Material/General_Computing/Introduction_to_Quantum_Computers.pdf
+- de Wolf, R. (n.d.). Quantum computing: A gentle introduction. Retrieved from https://homepages.cwi.nl/~rdewolf/qcnotes.pdf
+- Ekert, A., & Jozsa, R. (1996). Quantum computation and Shor’s factoring algorithm. Retrieved from https://cds.cern.ch/record/383367/files/p165.pdf
+- Wong, T. G. (2022). Introduction to classical and quantum computing. Rooted Grove. Retrieved from https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf
+- Rué, J., & Xambó-Descamps, S. (2011). Mathematical essentials of quantum computing. Retrieved from https://web.mat.upc.edu/sebastia.xambo/QC/qc.pdf
+- Rué, Juanjo, and Sebastià Xambó-Descamps. Mathematical Essentials of Quantum Computing. 2011. https://web.mat.upc.edu/sebastia.xambo/QC/qc.pdf
 
 
+
+- IBM Quantum. (n.d.). Getting started with Qiskit. Retrieved from https://learning.quantum.ibm.com/learning-path/getting-started-with-qiskit
 
 
 
