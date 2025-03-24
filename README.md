@@ -15,6 +15,7 @@ In this section, I have compiled a collection of notebooks based on the Qiskit d
 7. [Qiskit Algorithms: Simple Examples](notebooks/qiskit_algorithms.ipynb)
 8. [Introduction to Quantum Computing: The Deutsch Algorithm](notebooks/deutsch_algorithm.ipynb)
 9. [Introduction to Quantum Computing: The Grover's Algorithm](notebooks/grovers_algorithm.ipynb)
+10. [Introduction to Quantum Computing: The Grover's Algorithm](notebooks/simons_algorithm.ipynb)
 
 
 
