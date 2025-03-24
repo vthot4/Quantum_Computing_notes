@@ -8,11 +8,12 @@ In this section, I have compiled a collection of notebooks based on the Qiskit d
 
 1. [Basic Concepts](doc/basic_concepts.md)
 2. [Complex Arithmetic](notebooks/complex_arithmetic.ipynb)
-3. [Linear Algebra Theory](doc/linear_algebra_quantum_computing.md) 
+3. [Linear Algebra Theory](doc/linear_algebra_quantum_computing.md)
 4. [Linear Algebra](notebooks/linear_algebra.ipynb)
 5. [Install Qiskit](doc/install_qiskit.md)
 6. [Basics of qubits, gates, and circuits](notebooks/01_notebook.ipynb)
 7. [Qiskit Algorithms: Simple Examples](notebooks/qiskit_algorithms.ipynb)
+8. [Introduction to Quantum Computing: The Deutsch Algorithm](notebooks/deutsch_algorithm.ipynb)
 
 
 
