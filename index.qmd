@@ -1,0 +1,35 @@
+---
+title: "Quantum Computing notes"
+---
+
+A collection of notebooks based on the Qiskit documentation. They are my way to explore, practice and deepen my understanding of quantum computing. I am not an expert: the goal is to work through the examples, improve them where possible and gradually get better. It is a work in progress, and I hope it is also useful to others learning alongside me.
+
+Source code: [vthot4/Quantum_Computing_notes](https://github.com/vthot4/Quantum_Computing_notes).
+
+## Theory
+
+- [Linear Algebra Theory](doc/linear_algebra_quantum_computing.md)
+- [Install Qiskit](doc/install_qiskit.md)
+
+## Foundations
+
+- [Complex Arithmetic](notebooks/complex_arithmetic.ipynb)
+- [Linear Algebra](notebooks/linear_algebra.ipynb)
+- [The Bloch Sphere](notebooks/bloch_sphere.ipynb)
+
+## Qiskit and algorithms
+
+- [Basics of qubits, gates, and circuits](notebooks/01_notebook.ipynb)
+- [Qiskit Algorithms: Simple Examples](notebooks/qiskit_algorithms.ipynb)
+- [The Deutsch Algorithm](notebooks/deutsch_algorithm.ipynb)
+- [Grover's Algorithm](notebooks/grovers_algorithm.ipynb)
+- [Simon's Algorithm](notebooks/simons_algorithm.ipynb)
+
+## Sources
+
+- University of North Carolina. (n.d.). [Introduction to quantum computers](https://help.rc.unc.edu/Assets/New_Course_Material/General_Computing/Introduction_to_Quantum_Computers.pdf).
+- de Wolf, R. (n.d.). [Quantum computing: A gentle introduction](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf).
+- Ekert, A., & Jozsa, R. (1996). [Quantum computation and Shor's factoring algorithm](https://cds.cern.ch/record/383367/files/p165.pdf).
+- Wong, T. G. (2022). [Introduction to classical and quantum computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf). Rooted Grove.
+- Rué, J., & Xambó-Descamps, S. (2011). [Mathematical essentials of quantum computing](https://web.mat.upc.edu/sebastia.xambo/QC/qc.pdf).
+- IBM Quantum. (n.d.). [Getting started with Qiskit](https://learning.quantum.ibm.com/learning-path/getting-started-with-qiskit).

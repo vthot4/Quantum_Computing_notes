@@ -1,7 +1,5 @@
 # Quantum Computing notes
-
-
-
+### 👉 [vthot4.github.io/Quantum_Computing_notes](https://vthot4.github.io/Quantum_Computing_notes/)
 
 ## Notebooks
 In this section, I have compiled a collection of notebooks based on the Qiskit documentation. These examples serve as a way for me to explore, practice, and deepen my understanding of quantum computing. While I am not an expert, my goal is to work through these examples, enhance them where possible, and gradually improve my skills. This collection is a work in progress, and I hope it can also be useful for others who are learning alongside me.
@@ -14,8 +12,11 @@ In this section, I have compiled a collection of notebooks based on the Qiskit d
 6. [Basics of qubits, gates, and circuits](notebooks/01_notebook.ipynb)
 7. [Qiskit Algorithms: Simple Examples](notebooks/qiskit_algorithms.ipynb)
 8. [Introduction to Quantum Computing: The Deutsch Algorithm](notebooks/deutsch_algorithm.ipynb)
-9. [Introduction to Quantum Computing: The Grover's Algorithm](notebooks/grovers_algorithm.ipynb)
-10. [Introduction to Quantum Computing: The Simon's Algorithm](notebooks/simons_algorithm.ipynb)
+9. [The Bloch Sphere](notebooks/bloch_sphere.ipynb)
+10. [Introduction to Quantum Computing: The Grover's Algorithm](notebooks/grovers_algorithm.ipynb)
+11. [Introduction to Quantum Computing: The Simon's Algorithm](notebooks/simons_algorithm.ipynb)
+
+The site is built with [Quarto](https://quarto.org) (`quarto render`, config in `_quarto.yml`) and published to GitHub Pages by `.github/workflows/deploy.yml`. Notebooks are published with their saved outputs; Qiskit is not run in CI. `doc/basic_concepts.md` is still a stub and is not part of the site.
 
 
 

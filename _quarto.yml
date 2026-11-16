@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - doc/install_qiskit.md
+    - doc/linear_algebra_quantum_computing.md
+    - notebooks/*.ipynb
+
+website:
+  title: "Quantum Computing notes"
+  site-url: https://vthot4.github.io/Quantum_Computing_notes/
+  repo-url: https://github.com/vthot4/Quantum_Computing_notes
+  repo-actions: [edit, issue]
+  search: true
+  sidebar:
+    contents:
+      - index.qmd
+      - section: "Theory"
+        contents:
+          - doc/linear_algebra_quantum_computing.md
+          - doc/install_qiskit.md
+      - section: "Foundations"
+        contents:
+          - notebooks/complex_arithmetic.ipynb
+          - notebooks/linear_algebra.ipynb
+          - notebooks/bloch_sphere.ipynb
+      - section: "Qiskit and algorithms"
+        contents:
+          - notebooks/01_notebook.ipynb
+          - notebooks/qiskit_algorithms.ipynb
+          - notebooks/deutsch_algorithm.ipynb
+          - notebooks/grovers_algorithm.ipynb
+          - notebooks/simons_algorithm.ipynb
+
+lang: en
+
+# Los cuadernos se publican con las salidas ya guardadas: no se ejecuta Qiskit en CI.
+execute:
+  enabled: false
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    code-overflow: wrap
